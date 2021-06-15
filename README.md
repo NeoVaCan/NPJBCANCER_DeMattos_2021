@@ -6,7 +6,7 @@ NPJBCANCER, DeMattos, et al., 2021
 What is this repository for?
 ----------------------------
 
-Collection of data sets and R customized scripts for reproduce main figures from the [manuscript](http://naturemedicine.com/12345).
+Collection of data sets and R customized scripts for reproduce main figures from the [manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8185105/pdf/41523_2021_Article_282.pdf).
 
 How do I get set up?
 --------------------
